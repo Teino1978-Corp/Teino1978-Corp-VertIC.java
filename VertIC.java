@@ -7,7 +7,7 @@ import com.codename1.ui.Label;
 
 public class VertIC extends InfiniteContainer
 {
-	private static final int ITEMS_IN_ONE_GULP = 50;
+	private static final int ITEMS_IN_ONE_GULP = 1000;
 	
 	public VertIC()
 	{
